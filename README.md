@@ -100,3 +100,19 @@ A senha de acesso aos dados restritos da missão é `SENHA123`.
 
 ### Herança
 `PropulsaoQuimica` e `PropulsaoEletrica` herdam de `SistemaPropulsao`, chamam `super()` para reaproveitar a validação de potência da classe mãe e sobrescrevem o método `acelerar()` com comportamento específico de cada tecnologia de propulsão.
+
+---
+
+## Prints do Sistema
+
+### Menu Principal
+![Menu Principal](prints/print1-menu.png)
+
+### Simulação de Alertas
+![Alertas](prints/print2-alertas.png)
+
+### Sistema de Propulsão
+![Propulsao](prints/print3-propulsao.png)
+
+### Encapsulamento — Acesso por Senha
+![Encapsulamento](prints/print4-encapsulamento.png)
